@@ -1,4 +1,4 @@
-# Artblocks Stats
+# ArtBlocks Stats
 
 ## Overview
 
